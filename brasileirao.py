@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-API_KEY = 'Bearer test_a8c37778328495ac24c5d0d3c3923b'
+API_KEY = 'Bearer live_372001cb123d107aaa92737aab6fa3'
+#API_KEY = 'Bearer test_a8c37778328495ac24c5d0d3c3923b'
 
 from json import loads
 from time import time
